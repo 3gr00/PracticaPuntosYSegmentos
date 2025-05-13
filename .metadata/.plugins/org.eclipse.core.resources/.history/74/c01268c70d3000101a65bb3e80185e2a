@@ -1,0 +1,18 @@
+package clases;
+
+public class Segmento {
+	
+	public int a;
+	public int b;
+	
+	/**
+	 * Constructor por defecto con segmentos (0,0) y (1,1)
+	 */
+	public Segmento () {
+		
+		this.x = 0;
+		this.y = 0;
+		
+	}
+
+}

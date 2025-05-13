@@ -1,0 +1,10 @@
+package clases;
+
+public class Segmento {
+	
+	public int a;
+	public int b;
+	
+	
+
+}
